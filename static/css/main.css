@@ -1,0 +1,23 @@
+body {
+  width: 260px;
+  margin: 20px auto;
+}
+
+#main {
+  margin-top: 10px;
+}
+
+.display {
+  margin: 5px;
+  width: 230px;
+  text-align: right;
+}
+
+.keypad button.btn {
+  margin: 5px;
+  width: 50px;
+}
+
+.keypad button.wide {
+  width: 114px;
+}
